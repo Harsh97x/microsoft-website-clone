@@ -4,7 +4,7 @@
 This is quick and simple clone of a Microsoft website made with HTML & CSS by following <a href = "https://www.youtube.com/c/TraversyMedia" target = "_blank">Traversy Media's </a> youtube tutorial.
 ## Demo
 
-Insert gif or link to demo
+<a href = "https://clone-microsoft-website.netlify.app/" target = "_blamk">Live link here</a>
 
 
 ## Screenshots
